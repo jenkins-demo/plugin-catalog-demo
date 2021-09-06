@@ -1,5 +1,5 @@
 id: "demo-1"
-version: "1"
+version: "2"
 apiVersion: "1"
 description: "My CasC bundle"
 jcasc:
