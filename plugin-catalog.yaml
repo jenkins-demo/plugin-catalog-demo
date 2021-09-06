@@ -1,0 +1,13 @@
+type: plugin-catalog
+version: '1'
+name: Extra plugins
+displayName: Extra plugins
+configurations:
+- description: Pinned versions and hosted plugins
+  includePlugins:
+    permissive-script-security: {version: '0.6'}
+    vsphere-cloud: {version: '2.25'}
+    splunk-devops: {version: 1.9.6}
+    sonar: {version: 2.13.1}
+    build-failure-analyzer: {version: 2.0.0}
+    gcp-secrets-manager-credentials-provider: {version: 0.2.6}
